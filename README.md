@@ -17,7 +17,7 @@ https://t.me/Tenteiaa
 卡密格式为：ChatGPT账号----邮箱密码----ChatGPT密码----api
 售后期间问题号包换，24小时首登，过售后处理不了
 
-在线使用：https://chat-gpt-next-web.vercel.app/ 设置中可以填写key 仅限信用卡版本和Plus版本使用
+在线使用：https://www.zzztools.com/ 设置中可以填写key 仅限信用卡版本和Plus版本使用
 ```
 
 **客服联系：**

@@ -1,23 +1,28 @@
 # ChatGPT-OpenAI
-ChatGPT OpenAI 账号代注册|批量注册|账号批发|源头供货，均为新号，买完即可在 openai.com 登录查使用量，诚信经营，只有独享！
+ChatGPT OpenAI 账号代注册|Gemini KEY|Claude|Claude 中专|源头供货，均为新号，买完即可在 openai.com 登录查使用量，诚信经营，只有独享！
 **官网：**
 ```html
 自带发货“
 http://qqww100.com/
+https://www.nmnsd.com/
 
 TG频道：
 https://t.me/Tenteiaa
 ```
-版本 | API | 额度 | 有效期 | 请求次数 | 模型 | 升级 | 售后 | 零售价 | 批发价 
---- | --- | --- | --- | --- | --- | --- | --- | --- | --- 
-普通版(谷歌别名) | 不支持 | 5$ | 2023.08.01 | 20次/分 | 固定 | - | 1天 | 2/个 | 1.8/50个
 
 
+Gemini KEY 2.5
+GPT 0刀 谷歌授权 1.2
+GPT 5刀 KEY  4
+个人谷歌1.5
+企业谷歌0.4
+Claude 中专 1：2
+Claude  5刀 8
+以上都是一手货源
 ```html
-卡密格式为：ChatGPT账号----邮箱密码----ChatGPT密码----api
 售后期间问题号包换，24小时首登，过售后处理不了
 
-在线使用：https://www.zzztools.com/ 设置中可以填写key 仅限信用卡版本和Plus版本使用
+
 ```
 
 **客服联系：**
